@@ -1,0 +1,11 @@
+title: "latin-american-educational-inequality-dataset"
+description: "Dataset on educational inequality across Latin American countries."
+url: "https://juanmoisesd.github.io"
+baseurl: "/latin-american-educational-inequality-dataset"
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+plugins:
+  - jekyll-seo-tag
+theme: minima
